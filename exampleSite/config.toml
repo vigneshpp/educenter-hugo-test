@@ -85,7 +85,7 @@ contact_form_action = "#"
 description = "None"
 email = "info@pcie.com"
 google_analitycs_id = ""
-logo = "images/pcie.png"
+logo = "images/logo.svg"
 mobile = "+91123456789"
 top_header = false
 [params.map]
@@ -131,10 +131,6 @@ title = "facebook"
 icon = "ti-twitter-alt"
 link = "#"
 title = "twitter"
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
