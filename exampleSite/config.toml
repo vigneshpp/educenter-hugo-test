@@ -7,7 +7,7 @@ theme = "educenter-hugo"
 title = "PCIE"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 by [PCIE](https://pcie.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -34,10 +34,6 @@ name = "scholarship"
 [[menu.footer]]
 URL = "research"
 name = "research"
-[[menu.main]]
-URL = "about"
-name = "Test"
-weight = ""
 [[menu.main]]
 URL = "about"
 name = "About"
