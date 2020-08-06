@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.org"
+baseURL = "https://education-hugo-test.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
