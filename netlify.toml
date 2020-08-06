@@ -1,6 +1,6 @@
 [build]
   publish = "PCIE/public"
-  command = "cd exampleSite && hugo --gc --themesDir ../.."
+  command = "cd PCIE && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
